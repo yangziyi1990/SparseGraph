@@ -10,7 +10,7 @@ communication E-mail: [yangziyi091100@163.com](mailto:yangziyi091100@163.com)
 
 ## II. Methods
 
-according to the reference [1], we perform Neighbourhood Selection [2], Graphical Lasso [3], Scale free networks by reweighed L1 regularization (glasso-SF) [4], and Sparse PArtial Correlation Estimation (space) [5] to select important compounds in the file "code/[2-compound-target_network.R](https://github.com/yangziyi1990/SparseGraph/blob/master/code/2-compound-target_network.R)".
+According to the reference [1], we perform Neighbourhood Selection [2], Graphical Lasso [3], Scale free networks by reweighed L1 regularization (glasso-SF) [4], and Sparse PArtial Correlation Estimation (space) [5] to select important compounds in the file "code/[2-compound-target_network.R](https://github.com/yangziyi1990/SparseGraph/blob/master/code/2-compound-target_network.R)".
 
 The results are shown in the file of result, and we plot the figures in the file of Figure.
 
