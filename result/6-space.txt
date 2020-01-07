@@ -1,0 +1,8 @@
+Degree	Compound
+506	Com_10114
+288	Com_GC25
+87	Com_HQ08
+56	Com_GC44
+51	Com_31404
+28	Com_BS04
+25	Com_GC68
